@@ -2,6 +2,6 @@ streamlit
 yfinance
 numpy
 pandas
-scikit-learn
-tensorflow
+scikit-learn<1.4
+tensorflow<2.16
 plotly
