@@ -3,5 +3,4 @@ yfinance
 numpy
 pandas
 scikit-learn
-tensorflow
-plotly
+xgboost
